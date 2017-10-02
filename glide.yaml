@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/go-sql-driver/mysql
+  version: v1.3
+- package: github.com/gin-gonic/gin
+  version: v1.2
